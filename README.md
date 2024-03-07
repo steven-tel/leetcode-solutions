@@ -1,0 +1,16 @@
+
+# Leetcode-solutions
+
+A comprehensive collection of solutions to various LeetCode problems, classified by category for easy navigation and reference. This repository aims to serve as a valuable resource for programmers, coding enthusiasts, and interview preparation.
+
+## Solutions
+
+### Binary search
+
+
+| Problem  | Difficulty | Python                                           | C++                                            |
+| -------- | ---------- |--------------------------------------------------|------------------------------------------------|
+| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)  | Easy  | [Python](binary_search/278_first_bad_version.py) | [C++](binary_search/278_first_bad_version.cpp) |
+
+
+
